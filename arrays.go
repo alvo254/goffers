@@ -1,8 +1,8 @@
-package main
+package arrays
 
 import "fmt"
 
-func main(){
+func array(){
 	fmt.Println("Welcome to arrays")
 	//This elemnts are contigous in memory
 	//This is a literal sysntax this alloctes enough space to hold the array
