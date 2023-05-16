@@ -20,6 +20,7 @@ you are giving a name to a mathematical constant that could be used with multipl
 numeric types, then keep the constant untyped.
 
 
-
+Blocks
+Go lets you declare variables in lots of places. You can declare them outside of functions, as the parameters to functions, and as local variables within functions.
 
 
